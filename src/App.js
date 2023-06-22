@@ -1,7 +1,7 @@
 import './App.css';
 
 
-let name = "Anas Memon";
+let name = "Anas";
 
 function App() {
   return (
